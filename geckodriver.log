@@ -300,3 +300,89 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1537646090747	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
 1537646107128	Marionette	INFO	Stopped listening on port 51797
 1537646109527	Marionette	INFO	Stopped listening on port 51863
+1537649122509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7g/8zfvxwc9549037j8xnpf4f8c0000gn/T/rust_mozprofile.JEpTsQpdlduc"
+2018-09-22 15:45:24.372 plugin-container[13059:7726155] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x770b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-22 15:45:24.833 plugin-container[13060:7726183] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537649125247	Marionette	INFO	Listening on port 52381
+1537649125279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537649125336	Marionette	DEBUG	[4294967297] Frame script loaded
+1537649125369	Marionette	DEBUG	[4294967297] Frame script registered
+1537649125478	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537649125815	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-22 15:45:26.125 plugin-container[13062:7726335] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537649126446	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.wisc.edu/directories/
+1537649126884	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.wisc.edu/directories/
+1537649127195	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537649149374	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7g/8zfvxwc9549037j8xnpf4f8c0000gn/T/rust_mozprofile.GqMV7JtITKzJ"
+2018-09-22 15:45:50.885 plugin-container[13086:7727214] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x853f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-22 15:45:51.239 plugin-container[13087:7727239] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537649151581	Marionette	INFO	Listening on port 52450
+1537649151625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537649151681	Marionette	DEBUG	[4294967297] Frame script loaded
+1537649151683	Marionette	DEBUG	[4294967297] Frame script registered
+1537649151707	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537649152020	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-22 15:45:52.328 plugin-container[13089:7727401] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537649152521	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.wisc.edu/directories/
+1537649153239	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.wisc.edu/directories/
+1537649153497	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537649184312	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7g/8zfvxwc9549037j8xnpf4f8c0000gn/T/rust_mozprofile.Vf7Q3GqlnmRd"
+2018-09-22 15:46:25.915 plugin-container[13122:7728156] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-22 15:46:26.490 plugin-container[13124:7728189] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537649186941	Marionette	INFO	Listening on port 52553
+1537649187024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537649187138	Marionette	DEBUG	[4294967297] Frame script loaded
+1537649187189	Marionette	DEBUG	[4294967297] Frame script registered
+2018-09-22 15:46:27.271 plugin-container[13126:7728353] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537649187277	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537649187568	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537649187957	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.wisc.edu/directories/
+1537649190882	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.wisc.edu/directories/
+1537649191133	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537649203483	Marionette	INFO	Stopped listening on port 52381
+1537649205726	Marionette	INFO	Stopped listening on port 52450
+2018-09-22 15:46:47.156 plugin-container[13142:7728931] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537649209184	Marionette	INFO	Stopped listening on port 52553
+1537649333018	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7g/8zfvxwc9549037j8xnpf4f8c0000gn/T/rust_mozprofile.wSPVS6rTOR2r"
+2018-09-22 15:48:54.521 plugin-container[13249:7730837] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-22 15:48:54.879 plugin-container[13250:7730866] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537649335220	Marionette	INFO	Listening on port 52663
+1537649335263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537649335320	Marionette	DEBUG	[4294967297] Frame script loaded
+1537649335321	Marionette	DEBUG	[4294967297] Frame script registered
+1537649335344	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537649335571	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-09-22 15:48:55.885 plugin-container[13252:7731033] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537649336080	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.wisc.edu/directories/
+1537649336516	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.wisc.edu/directories/
+1537649336790	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1537649365663	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7g/8zfvxwc9549037j8xnpf4f8c0000gn/T/rust_mozprofile.oZFNs30CI7Fb"
+2018-09-22 15:49:27.258 plugin-container[13285:7731896] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-22 15:49:27.633 plugin-container[13286:7731919] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8747, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537649367999	Marionette	INFO	Listening on port 52752
+1537649368022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537649368110	Marionette	DEBUG	[4294967297] Frame script loaded
+1537649368111	Marionette	DEBUG	[4294967297] Frame script registered
+1537649368138	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537649368489	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537649369159	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.wisc.edu/directories/
+1537649369312	Marionette	INFO	Stopped listening on port 52663
+2018-09-22 15:49:29.365 plugin-container[13289:7732075] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1537649369643	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.wisc.edu/directories/
+1537649369945	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected

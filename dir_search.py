@@ -21,11 +21,16 @@ def get_dir_res():
     element.send_keys('Arnav Sharma ')
 
     people = main_el.find_element_by_id('people')
+    res = {}
     for i in range(3):
         try:
+            names =  people.find_elements_by_class_name('person_name')
+            n = [name.text for name in names]
             emails = people.find_elements_by_class_name('person_email')
             e = [email.text for email in emails]
         except:
             continue
-
-    return e
+    element.clear()
+    for i in range(len(n)):
+        res[n[i]] = e[i]
+    return res
